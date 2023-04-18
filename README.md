@@ -1,5 +1,5 @@
 # KrunkerToWaveFront-Remastered
-BugFixed version of KrunkerToWaveFront-Remastered.
+BugFixed version of KrunkerToWaveFront.
 
 Tested on Node.js v19.9.0
 
